@@ -59,8 +59,10 @@ function render(variables = {}) {
               variables.instagram == null
                 ? "4geeksacademy"
                 : variables.instagram
-            }><i class="fab fa-instagram"></i></a></li>
+            }"><i class="fab fa-instagram"></i></a></li>
+
           </ul>
+
         </div>
     `;
 }
